@@ -1,0 +1,32 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "YYYY/[daily]/MM-MMM/[daily]-YYYYMMDD-ddd",
+    "template": "_templates/journal/worklog-time.md",
+    "folder": "journal",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "YYYY/[weekly]/[weekly]-YYYYWW",
+    "template": "",
+    "folder": "journal",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}
