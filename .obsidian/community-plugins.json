@@ -1,10 +1,11 @@
 [
-  "obsidian-git",
   "calendar",
   "dataview",
   "templater-obsidian",
   "dbfolder",
   "obsidian-linter",
   "periodic-notes",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-git",
+  "obsidian-minimal-settings"
 ]

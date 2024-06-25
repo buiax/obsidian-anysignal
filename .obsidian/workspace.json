@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "6ee6d79e530965d5",
+        "id": "fb9727c3d2a2c450",
         "type": "tabs",
         "children": [
           {
-            "id": "0116ac7dd5286c60",
+            "id": "30f1ebc0b6705627",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "41ad595c5205a4ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/Untitled.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/Untitled.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/Untitled.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/Untitled.md"
+                "file": "Homepage.md"
               }
             }
           },
@@ -157,8 +172,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "37bfcafdf05faf66",
@@ -177,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,43 +207,43 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0116ac7dd5286c60",
+  "active": "41ad595c5205a4ee",
   "lastOpenFiles": [
+    "journal/2024/daily/06-Jun/daily-20240625-Tue.md",
     "journal/2024/daily/06-Jun/daily-20240624-Mon.md",
-    "Welcome.md",
+    "tools/work-hours.md",
+    "Homepage.md",
+    "tools",
+    "work/document/accounts.md",
+    "work/project/anysom-fallback 1 1 1.md",
+    "work/project/anysom-fallback 1 1.md",
+    "work/project/anysom-fallback 1.md",
+    "work/project/anysom-fallback.md",
+    "resources/Untitled.md",
+    "work/project/closed",
+    "work/document",
+    "work/project",
+    "work/setup",
+    "core/code/python/python-virutal-environment.md",
+    "work",
+    "core/systems/buildroot",
+    "core/git",
+    "core/revision",
+    "core/tools",
+    "journal/Untitled.md",
     "inbox/Untitled.md",
-    "journal/2024/daily/06-Jun",
-    "journal/2024/daily",
-    "journal/2024",
+    "Welcome.md",
     "core/Untitled.md",
     "journal/2024/daily/06-Jun/daily-20240623-Sun.md",
-    "journal/2024/daily/06-Jun/daily-20240625-Tue.md",
     "journal/2024/daily/06-Jun/daily-20240626-Wed.md",
     "journal/2024/daily/06-Jun/daily-20240627-Thu.md",
     "_templates/journal/worklog-time.md",
     "journal/2024/[daily]/06-Jun/daily-20240625-Tue.md",
-    "journal/2024/[daily]/06-Jun",
-    "journal/2024/[daily]",
     "_templates/journal/worklog.md",
     "journal/2024/daily/05-May/daily-20240520-Mon.md",
-    "journal/2024/daily/05-May",
-    "Homepage.md",
     "journal/2024/06-Jun/Daily-20240625-Tue.md",
-    "journal/2024/06-Jun",
     "journal/2024/daily/06-Jun/daily-20240617-Mon.md",
     "_templates/journal/meeting-outline.md",
-    "_templates/journal/daily-selector-template.md",
-    "_scripts/Untitled.md",
-    "daily/2024/06-Jun/Daily-20240625-Tue.md",
-    "daily/2024/06-Jun",
-    "daily/2024",
-    "daily",
-    "_templates/journal/worklogsub.md",
-    "resources/Untitled.md",
-    "2024-06-24.md",
-    "_templates/journal/daily-meetings-template.md",
-    "_templates/journal/daily-issues-template.md",
-    "_templates/new-note-template.md",
-    "journal/Untitled.md"
+    "_templates/journal/daily-selector-template.md"
   ]
 }
