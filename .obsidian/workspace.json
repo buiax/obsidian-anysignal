@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "work/project/anysom-fallback.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "work/project/anysom-fallback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "work/project/anysom-fallback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "work/project/anysom-fallback.md"
               }
             }
           },
@@ -207,33 +207,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "41ad595c5205a4ee",
+  "active": "29c11d6652959614",
   "lastOpenFiles": [
+    "obsidian-core/obsidian/plugins/templater-cheat-sheet.md",
+    "obsidian-core/obsidian/plugins",
+    "obsidian-core/obsidian",
+    "obsidian-core/code/python/python-virtual-env.md",
+    "obsidian-core/code/python",
+    "obsidian-core/code",
+    "obsidian-core/README.md",
+    "obsidian-core",
+    "core/Untitled.md",
+    "core",
+    "New folder",
+    "core/code/python/python-virutal-environment.md",
+    "work/project/anysom-fallback.md",
+    "work/project/anysom-fallback 1.md",
+    "work/document/accounts.md",
+    "Homepage.md",
     "journal/2024/daily/06-Jun/daily-20240625-Tue.md",
     "journal/2024/daily/06-Jun/daily-20240624-Mon.md",
     "tools/work-hours.md",
-    "Homepage.md",
     "tools",
-    "work/document/accounts.md",
     "work/project/anysom-fallback 1 1 1.md",
     "work/project/anysom-fallback 1 1.md",
-    "work/project/anysom-fallback 1.md",
-    "work/project/anysom-fallback.md",
     "resources/Untitled.md",
     "work/project/closed",
     "work/document",
-    "work/project",
-    "work/setup",
-    "core/code/python/python-virutal-environment.md",
-    "work",
-    "core/systems/buildroot",
-    "core/git",
-    "core/revision",
-    "core/tools",
     "journal/Untitled.md",
     "inbox/Untitled.md",
     "Welcome.md",
-    "core/Untitled.md",
     "journal/2024/daily/06-Jun/daily-20240623-Sun.md",
     "journal/2024/daily/06-Jun/daily-20240626-Wed.md",
     "journal/2024/daily/06-Jun/daily-20240627-Thu.md",
@@ -241,9 +244,6 @@
     "journal/2024/[daily]/06-Jun/daily-20240625-Tue.md",
     "_templates/journal/worklog.md",
     "journal/2024/daily/05-May/daily-20240520-Mon.md",
-    "journal/2024/06-Jun/Daily-20240625-Tue.md",
-    "journal/2024/daily/06-Jun/daily-20240617-Mon.md",
-    "_templates/journal/meeting-outline.md",
-    "_templates/journal/daily-selector-template.md"
+    "journal/2024/06-Jun/Daily-20240625-Tue.md"
   ]
 }
