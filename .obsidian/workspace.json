@@ -209,6 +209,14 @@
   },
   "active": "29c11d6652959614",
   "lastOpenFiles": [
+    "core/obsidian/plugins/templater-cheat-sheet.md",
+    "core/obsidian/plugins",
+    "core/obsidian",
+    "core/code/python/python-virtual-env.md",
+    "core/code/python",
+    "core/code",
+    "core/README.md",
+    "core",
     "obsidian-core/obsidian/plugins/templater-cheat-sheet.md",
     "obsidian-core/obsidian/plugins",
     "obsidian-core/obsidian",
@@ -218,8 +226,6 @@
     "obsidian-core/README.md",
     "obsidian-core",
     "core/Untitled.md",
-    "core",
-    "New folder",
     "core/code/python/python-virutal-environment.md",
     "work/project/anysom-fallback.md",
     "work/project/anysom-fallback 1.md",
@@ -228,12 +234,9 @@
     "journal/2024/daily/06-Jun/daily-20240625-Tue.md",
     "journal/2024/daily/06-Jun/daily-20240624-Mon.md",
     "tools/work-hours.md",
-    "tools",
     "work/project/anysom-fallback 1 1 1.md",
     "work/project/anysom-fallback 1 1.md",
     "resources/Untitled.md",
-    "work/project/closed",
-    "work/document",
     "journal/Untitled.md",
     "inbox/Untitled.md",
     "Welcome.md",
@@ -241,9 +244,6 @@
     "journal/2024/daily/06-Jun/daily-20240626-Wed.md",
     "journal/2024/daily/06-Jun/daily-20240627-Thu.md",
     "_templates/journal/worklog-time.md",
-    "journal/2024/[daily]/06-Jun/daily-20240625-Tue.md",
-    "_templates/journal/worklog.md",
-    "journal/2024/daily/05-May/daily-20240520-Mon.md",
-    "journal/2024/06-Jun/Daily-20240625-Tue.md"
+    "journal/2024/[daily]/06-Jun/daily-20240625-Tue.md"
   ]
 }
